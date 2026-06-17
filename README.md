@@ -93,8 +93,8 @@ The analysis integrates **data mining**, **sequence retrieval**, and **biologica
 ## 🧾 Installation
 
 ```bash
-git clone https://github.com/<yourusername>/TP53_Mutation_Hotspot_Analyzer.git
-cd TP53_Mutation_Hotspot_Analyzer
+git clone https://github.com/Arun0364/TP53-Mutation-Hotspot-Analyzer.git
+cd TP53-Mutation-Hotspot-Analyzer
 ```
 
 Then open the Jupyter notebook:
@@ -107,16 +107,14 @@ jupyter notebook TP53_Hotspot_Analyzer.ipynb
 
 ## 🧪 Example Output
 
-**Hotspot Codons Identified:** 175, 248, 273
-**Mutation Type Distribution:**
+### Mutation Hotspot Lollipop Plot
+![TP53 Lollipop Plot](tp53_lollipop_plot.png)
 
-- Missense – 65%
+### Variant Consequence Distribution
+![Consequence Distribution](tp53_consequence_distribution.png)
 
-- Frameshift – 20%
-
-- Nonsense – 10%
-
-- Other – 5%
+**Hotspot Codons Identified:** 175, 248, 273  
+**Mutation Type Distribution:** Missense – 65% | Frameshift – 20% | Nonsense – 10% | Other – 5%
 
 ---
 
