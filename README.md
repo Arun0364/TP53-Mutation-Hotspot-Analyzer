@@ -93,7 +93,7 @@ The analysis integrates **data mining**, **sequence retrieval**, and **biologica
 ## 🧾 Installation
 
 ```bash
-git clone https://github.com/<yourusername>/TP53_Mutation_Hotspot_Analyzer.git
+git clone https://github.com/Arun0364/TP53_Mutation_Hotspot_Analyzer.git
 cd TP53_Mutation_Hotspot_Analyzer
 ```
 
